@@ -157,11 +157,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
----
-
-
-```
-yfinance>=0.2.0
-pandas>=1.5.0
-numpy>=1.23.0
