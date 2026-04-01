@@ -87,7 +87,7 @@ future performance. Options trading involves substantial risk of loss.
 
 ---
 
-## Author
+## Dylan Parkinson
 
 Built and designed by [Your Name]  
 Strategy research, signal design, and AI-assisted quantitative analysis.
