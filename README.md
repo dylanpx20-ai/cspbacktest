@@ -89,5 +89,5 @@ future performance. Options trading involves substantial risk of loss.
 
 ## Dylan Parkinson
 
-Built and designed by [Your Name]  
+Built and designed by Dylan Parkinson  
 Strategy research, signal design, and AI-assisted quantitative analysis.
