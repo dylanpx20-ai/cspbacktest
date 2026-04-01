@@ -126,4 +126,5 @@ to demonstrate the directional edge.
 ## Dylan Parkinson
 
 Built and designed by Dylan Parkinson  
-Strategy research, signal design, and AI-assisted quantitative analysis.
+Background in GTM and Media, building analytical systems across domains using Python and AI to turn ideas into measurable insights.
+
