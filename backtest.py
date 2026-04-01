@@ -160,7 +160,7 @@ if __name__ == "__main__":
 
 ---
 
-# 📄 requirements.txt
+
 ```
 yfinance>=0.2.0
 pandas>=1.5.0
