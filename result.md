@@ -39,6 +39,8 @@ to decay put premiums faster than time alone.
 
 - Results are estimated using price recovery as a proxy for options P&L
 - Does not account for IV at entry, strike selection, or bid/ask spread
+- Average PnL % is sensitive to outlier recovery events, particularly at smaller drop thresholds where large rebounds can disproportionately skew results.
+As a result, win rate provides a more stable indicator of signal consistency, while Avg PnL should be interpreted with caution.
 - See `README.md` for full methodology and limitations
 ```
 
