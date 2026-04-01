@@ -113,6 +113,16 @@ Accurate options backtesting requires historical chain data (strikes, IV, bid/as
 This data is available from vendors such as CBOE DataShop, OptionsDX, and Nasdaq Data Link,
 but is not free. This project uses Yahoo Finance price data as a freely available alternative
 to demonstrate the directional edge.
+
+## Tools Used
+
+- **Python** — core language
+- **Google Colab** — development and execution environment
+- **Claude Sonnet 4.6 (Anthropic)** — AI-assisted code development and iteration
+- **yFinance** — historical price data
+- **pandas / numpy** — data manipulation and analysis
+- **matplotlib** — results visualisation
+
 ## Dylan Parkinson
 
 Built and designed by Dylan Parkinson  
