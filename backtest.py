@@ -5,7 +5,7 @@ Backtests a cash secured put strategy on large-cap stocks.
 Signal: single-day price drop within a defined threshold.
 Exit: 50% profit target or 14-day time stop.
 
-Author: [Your Name]
+Author: Dylan Parkinson
 """
 
 import yfinance as yf
